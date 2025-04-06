@@ -84,7 +84,7 @@ The program is a command-line tool that accepts various flags for different oper
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/MiniChef.git
+    git clone https://github.com/MdLeon-official/MiniChef.git
     cd MiniChef
     ```
 
