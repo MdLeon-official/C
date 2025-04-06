@@ -57,6 +57,9 @@ int main (int argc, char *argv[]) {
     else if ((strcmp(argv[1], "-ba")) == 0) {
         binary_to_ascii(argv[2]);
     }
+    else {
+        printf("Invalid command. Use '%s -h' for help.\n", argv[0]);
+    }
     return 0;
 }
 
